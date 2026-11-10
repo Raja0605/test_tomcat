@@ -143,3 +143,5 @@ The permission dashboard also checks backend create/read automatically. Its new-
 ## Frontend behavior
 
 The dashboard supports upload progress, document listing, upload timestamps and sizes, direct Nginx view/download links, test-file creation, refresh, explicit API errors, and permission checks. API error responses contain an `error` message; the UI displays it above the current section.
+
+cherry pick one
